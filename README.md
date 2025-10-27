@@ -1,7 +1,7 @@
 # 🎮 Python-Mini-Games-Collection
 This repository contains several basic Python games created during my learning journey. It showcases my logic-building, problem-solving, and creativity using Python.
 
-# 🎮 Python Mini Games Collection
+# 🎮 Python Mini Games Play Pathway
 
 This repository contains a few fun and beginner-friendly **Python games** I built while learning game logic and object-oriented programming concepts.  
 Each project is written in **pure Python**, using only the built-in `turtle` and `pygame` modules (depending on the game).
